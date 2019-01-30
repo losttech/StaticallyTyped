@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.329
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StaticallyTyped", "src\StaticallyTyped.csproj", "{197498F7-9AEC-49E1-B0E0-0F73DDB05FDC}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Repo", "Repo", "{7644EC9A-DDE0-4D0A-B32D-2D0BFF2A7CC5}"
+	ProjectSection(SolutionItems) = preProject
+		.gitattributes = .gitattributes
+		.gitignore = .gitignore
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{197498F7-9AEC-49E1-B0E0-0F73DDB05FDC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{197498F7-9AEC-49E1-B0E0-0F73DDB05FDC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{197498F7-9AEC-49E1-B0E0-0F73DDB05FDC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{197498F7-9AEC-49E1-B0E0-0F73DDB05FDC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4281A580-59B7-4D71-BF64-5709F533A799}
+	EndGlobalSection
+EndGlobal
